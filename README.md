@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @elcherex 
 - 👀 I’m interested in UX design 
 - 🌱 I’m currently learning Javascript and PHP
+- 🌱 I know HTML and CSS
 - 💞️ I’m looking to collaborate on multiple different projects
 - 📫 How to reach me sasha13claquin@gmail.com
 
